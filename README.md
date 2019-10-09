@@ -1,4 +1,4 @@
-# Stack-GCP
+# Stack-Rook
 
 ## Overview
 
